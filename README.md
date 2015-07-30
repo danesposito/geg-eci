@@ -1,6 +1,7 @@
-Version: 0.0.1
-Ruby Version:
-Rails Version:
+##Version: 0.0.1
+##Ruby Version:
+##Rails Version:
 
 ##Gems:
+--Homebrew
 
